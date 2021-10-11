@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 import { Route, Switch } from 'react-router-dom'
 import ApiClient from './Globals'
 
-import MovieCard from './component/MovieCard'
+// import MovieCard from './component/MovieCard'
 import Nav from './component/Nav'
 
 import Home from './pages/Home'

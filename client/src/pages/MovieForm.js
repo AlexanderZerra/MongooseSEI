@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import ApiClient from '../Globals'
-import Home from './Home'
+// import ApiClient from '../Globals'
+// import Home from './Home'
 
 export default class MovieForm extends Component {
   constructor() {
